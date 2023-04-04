@@ -1,0 +1,19 @@
+/* CSS styles document */
+
+/* styles for project container*/
+.project-container {
+    width: 100%;
+    margin-top: 20px;
+}
+
+/* styles for form container*/
+.form-container {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+/* styles for paragraph*/
+p#response {
+    color: red;
+}
